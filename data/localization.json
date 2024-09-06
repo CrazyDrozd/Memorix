@@ -1,0 +1,48 @@
+{
+"ru": [
+    {
+    "time_format": {
+        "24-hour format": "Показывает время в 24-часовом формате. [24:00:00]",
+        "12-hour format": "Показывает время в 12-часовом формате. [12:00:00 PM/AM]"
+        }
+    },
+    {
+    "start_text": "[ НАЧАЛО ЗАМЕТОК ] [/help для списка команд]"
+    },
+    {
+    "save_text": "[ ЗАПИСИ БЫЛИ СОХРАНЕНЫ ]"
+    },
+    {
+    "clear_text": "[ ЗАПИСИ БЫЛИ СТЁРТЫ ]"
+    },
+    {
+    "help_cmd": "/clear — Очищает все заметки.\n/del — Очищает последнюю заметку.\n/colors — Показывает все доступные цвета.\n/head — Создать пустой заголовок.\n  — /head {text: optional}, {color: optional} — Создать заголовок с текстом или цветом.\n/help — Показывает все команды.\n/save  — Сохраняет все заметки в .txt файл.\n  — /save {file_name: optional} — Сохраняет все заметки в определённый .txt файл.\n  — При отсутствии заметок все сохранённые заметки в текстовом файле будут стёрты!"
+    },
+    {
+    "colors_cmd": "[ Доступные цвета ]"
+    }
+    ],
+"en": [
+    {
+    "time_format": {
+        "24-hour format": "Shows time in 24-hour format. [24:00:00]",
+        "12-hour format": "Shows time in 12-hour format. [12:00:00 PM/AM]"
+        }
+    },
+    {
+    "start_text": "[ TYPE ALL YOUR NOTES HERE ] [/help for commands list]"
+    },
+    {
+    "save_text": "[ NOTES WERE SAVED ]"
+    },
+    {
+    "clear_text": "[ NOTES WERE CLEARED ]"
+    },
+    {
+    "help_cmd": "/clear — Clears all notes.\n/del — Clears last note.\n/colors — Shows all available colors.\n/head — Create empty header.\n  — /head {text: optional}, {color: optional} — Create header with text and color.\n/help — Shows all commands.\n/save — Saves notes into .txt file.\n  — /save {file_name: optional} — Saves all notes into specific .txt file.\n  — .txt file will be fully cleared if no notes are being saved!"
+    },
+    {
+    "colors_cmd": "[ Available colors ]"
+    }
+    ]
+}
