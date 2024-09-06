@@ -1,5 +1,5 @@
 '''Memorix'''
-'''Last Update: 01.08.2024'''
+'''Last Update: 06.09.2024'''
 
 import time, keyboard, os, platform, colorama, sys, threading, json
 from datetime import date
