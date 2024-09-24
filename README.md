@@ -12,3 +12,5 @@ It also has a lot of **features**:
   * **Easy configuration** — it's simple open-source code allows to mod this project and integrate more features into it.
  
 Memorix contains localization system and two currently existing languages: **English** and **Russian**.
+
+Available only on **Windows**.
